@@ -1,0 +1,8 @@
+.env
+node_modules
+.encryptedKey.json
+.checkEncryptedKey.json
+.encryptedKey.json
+checkEncrytion.js
+deploy-1.js
+encryptKey.js
